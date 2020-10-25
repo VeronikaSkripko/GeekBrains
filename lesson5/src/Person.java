@@ -30,3 +30,4 @@ public class Person {
 		}
 	}
 }
+//printinfo вычисляется в main, это не задача класса
